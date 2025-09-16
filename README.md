@@ -1,6 +1,11 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/16/31/54/16/240_F_1631541608_AVpeROk38QeMqYzcZnYB7RX1KtzQ0fJZ.jpg)]()
+<p align="center">
+  <img src="https://t3.ftcdn.net/jpg/16/31/54/16/240_F_1631541608_AVpeROk38QeMqYzcZnYB7RX1KtzQ0fJZ.jpg" 
+       alt="profile header" 
+       width="120" 
+       style="border-radius: 50%; margin-right: 15px;" />
+  <h1 align="center" style="display: inline-block; vertical-align: middle;">Hi 👋, I'm Kihal Abderrahmane</h1>
+</p>
 
-<h1 align="center">Hi 👋, I'm Kihal Abderrahmane</h1>
 <h3 align="center">A passionate Flutter and NestJs developer from Algeria</h3>
     
 <img align="right" alt = "coding" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
