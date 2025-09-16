@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="https://t3.ftcdn.net/jpg/16/31/54/16/240_F_1631541608_AVpeROk38QeMqYzcZnYB7RX1KtzQ0fJZ.jpg" 
-       alt="profile header" 
-       width="120" 
-       style="border-radius: 50%; margin-right: 15px;" />
-  <h1 align="center" style="display: inline-block; vertical-align: middle;">Hi 👋, I'm Kihal Abderrahmane</h1>
+  <img src="https://t3.ftcdn.net/jpg/16/31/54/16/240_F_1631541608_AVpeROk38QeMqYzcZnYB7RX1KtzQ0fJZ.jpg" width="120" height="120" style="clip-path: circle(50%);" />
 </p>
 
-<h3 align="center">A passionate Flutter and NestJs developer from Algeria</h3>
+<h3 align="center">Software Baker … turning ideas into digital recipes that work</h3>
     
 <img align="right" alt = "coding" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
          
@@ -20,9 +16,9 @@
 - 🔭 and also on [Weekly Planner](https://github.com/abdou-tech-baker/weekly-planner)
 
 
-- 🌱 I’m currently learning **Flutter,NestJs,GCP**
+- 🌱 I’m currently learning **Flutter,Django,NestJs,GCP**
 
-- 💬 Ask me about **Flutter,JavaFx**
+- 💬 Ask me about **Flutter,Django,NestJs,JavaFx**
 
 - 📫 How to reach me **abderrahmanekihal5@gmail.com**
 
@@ -49,4 +45,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdou-tech-baker&show_icons=true&locale=en" alt="abdou-tech-baker" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdou-tech-baker&" alt="abdou-tech-baker" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdou-tech-baker"/></p>
