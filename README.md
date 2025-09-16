@@ -7,12 +7,12 @@
          
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdou-tech-maker&label=Profile%20views&color=0e75b6&style=flat" alt="abdou-tech-maker" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdou-tech-baker&label=Profile%20views&color=0e75b6&style=flat" alt="abdou-tech-baker" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Sourcing](https://github.com/abdou-tech-maker/agent_confirmation_v2)
-- 🔭 and also on [Weekly Planner](https://github.com/abdou-tech-maker/weekly-planner)
+- 🔭 I’m currently working on [Sourcing](https://github.com/abdou-tech-baker/agent_confirmation_v2)
+- 🔭 and also on [Weekly Planner](https://github.com/abdou-tech-baker/weekly-planner)
 
 
 - 🌱 I’m currently learning **Flutter,NestJs,GCP**
@@ -40,8 +40,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdou-tech-maker&show_icons=true&locale=en&layout=compact" alt="abdou-tech-maker" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdou-tech-baker&show_icons=true&locale=en&layout=compact" alt="abdou-tech-baker" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdou-tech-maker&show_icons=true&locale=en" alt="abdou-tech-maker" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdou-tech-baker&show_icons=true&locale=en" alt="abdou-tech-baker" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdou-tech-maker&" alt="abdou-tech-maker" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdou-tech-baker&" alt="abdou-tech-baker" /></p>
