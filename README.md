@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdou-tech-baker&label=Profile%20views&color=0e75b6&style=flat" alt="abdou-tech-baker" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 - 🔭 I’m currently working on [Sourcing](https://github.com/abdou-tech-baker/agent_confirmation_v2)
 - 🔭 and also on [Weekly Planner](https://github.com/abdou-tech-baker/weekly-planner)
