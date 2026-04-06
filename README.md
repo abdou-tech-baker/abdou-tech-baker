@@ -19,7 +19,7 @@
 
 - 🔭 Currently building: **GMAO AI Startup** – automating maintenance & operations with AI
 - 🔭 Also working on: [Sourcing](https://github.com/abdou-tech-baker/agent_confirmation_v2) & [Weekly Planner](https://github.com/abdou-tech-baker/weekly-planner)
-- 🌱 Learning: **Flutter, Django, NestJS, GCP**
+- 🌱 Learning: ** Agentic AI, Django, NestJS, GCP**
 - 💬 Ask me about: **Mobile architecture, Flutter, Django, NestJS, JavaFX**
 - 👨‍💻 Tech lead experience: Leading cross-functional teams, CI/CD, backend API design, scalable Flutter apps
 - 📫 Reach me at: **abderrahmanekihal5@gmail.com**
